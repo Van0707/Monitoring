@@ -46,7 +46,7 @@ def check_nodejs():
 # GEMINI AI ANALYSIS
 # ==========================
 def analyze_issue(name, status):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-latest:generateContent?key={GEMINI_API_KEY}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key={GEMINI_API_KEY}"
 
     prompt = f"""
     Service Monitoring Report:
