@@ -6,7 +6,7 @@ import json
 # ==========================
 # CONFIGURATION
 # ==========================
-GEMINI_API_KEY = "AIzaSyA8Y2v7K-kzChPgzMUQLa2fDAp7OEZA2AY"   # <-- GANTI DI SINI
+GEMINI_API_KEY = "AIzaSyAcXPyGlJBAWOVtWLFaxnXYWahDVbz8ydk"   # <-- GANTI DI SINI
 FONNTE_TOKEN = "XdH2YJbSGY9XvzsbLzz2"    # Token
 TARGET_NUMBER = "6282290090567"               # Nomor WA tujuan
 
